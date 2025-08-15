@@ -1,0 +1,1 @@
+This repository contains research and tools related to kernel exploitation techniques on the PlayStation 4 (PS4). It includes code, documentation, and vulnerabilities discovered in the PS4's kernel, aimed at those interested in security research, reverse engineering, and exploiting console systems."
